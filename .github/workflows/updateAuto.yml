@@ -32,7 +32,7 @@ jobs:
         pip install feedparser
     - name: Run Update Python
       run: |
-        python update_readme.py
+        python updateReadMeAuto.py
     - name: Update README.md
       run: |
         git pull

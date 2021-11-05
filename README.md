@@ -9,4 +9,3 @@
 [2021.11.4 : [SpringMVC] Request Parameter 가져오기](https://cnu-jinseop.tistory.com/44) <br>
 [2021.11.4 : [SpringMVC] Request Body 받아오기](https://cnu-jinseop.tistory.com/45) <br>
 [2021.11.4 : [YBM전화영어] Day2 회고록](https://cnu-jinseop.tistory.com/46) <br>
-[2021.11.5 : 임시 테스트](https://cnu-jinseop.tistory.com/47) <br>

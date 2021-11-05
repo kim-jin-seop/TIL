@@ -1,2 +1,2 @@
 # TIL
-## Today I Learned 그날 배운건 그날 적자  
+### Today I Learned 그날 배우면 그날 적자

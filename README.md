@@ -41,3 +41,4 @@
 [2021.11.4 : [YBM전화영어] Day2 회고록](https://cnu-jinseop.tistory.com/46) <br>
 [2021.11.5 : [Git] Tistory 블로그 글 쓰면 자동으로 GitHub에 올리기](https://cnu-jinseop.tistory.com/48) <br>
 [2021.11.6 : [Backjoon_10971] 외판원 순회 2](https://cnu-jinseop.tistory.com/53) <br>
+[2021.11.7 : [SpringMVC] SSR Response, Response Body](https://cnu-jinseop.tistory.com/54) <br>

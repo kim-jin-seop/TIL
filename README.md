@@ -43,3 +43,5 @@
 [2021.11.6 : [Backjoon_10971] 외판원 순회 2](https://cnu-jinseop.tistory.com/53) <br>
 [2021.11.7 : [SpringMVC] SSR Response, Response Body](https://cnu-jinseop.tistory.com/54) <br>
 [2021.11.8 : [Spring MVC] HTTP Message Converter](https://cnu-jinseop.tistory.com/55) <br>
+[2021.11.9 : 비트마스크 알고리즘](https://cnu-jinseop.tistory.com/56) <br>
+[2021.11.9 : [Backjoon_1182] 부분수열의 합(Java)](https://cnu-jinseop.tistory.com/57) <br>

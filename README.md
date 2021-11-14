@@ -47,3 +47,5 @@
 [2021.11.9 : [Backjoon_1182] 부분수열의 합(Java)](https://cnu-jinseop.tistory.com/57) <br>
 [2021.11.12 : [Backjoon_14391] 종이조각 (Java)](https://cnu-jinseop.tistory.com/58) <br>
 [2021.11.12 : [YBM전화영어] Day 3,4 회고록](https://cnu-jinseop.tistory.com/59) <br>
+[2021.7.15 : [책] 하루 10분, 구글 영어의 힘](https://cnu-jinseop.tistory.com/22) <br>
+[2021.11.13 : [책] 차가운 학교의 시간은 멈춘다(상,하)](https://cnu-jinseop.tistory.com/61) <br>

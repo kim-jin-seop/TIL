@@ -49,3 +49,5 @@
 [2021.11.12 : [YBM전화영어] Day 3,4 회고록](https://cnu-jinseop.tistory.com/59) <br>
 [2021.7.15 : [책] 하루 10분, 구글 영어의 힘](https://cnu-jinseop.tistory.com/22) <br>
 [2021.11.13 : [책] 차가운 학교의 시간은 멈춘다(상,하)](https://cnu-jinseop.tistory.com/61) <br>
+[2021.11.14 : [알고리즘] 다이나믹 프로그래밍](https://cnu-jinseop.tistory.com/62) <br>
+[2021.11.14 : [Backjoon_11052] 카드 구매하기(Java)](https://cnu-jinseop.tistory.com/63) <br>

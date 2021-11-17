@@ -51,3 +51,5 @@
 [2021.11.13 : [책] 차가운 학교의 시간은 멈춘다(상,하)](https://cnu-jinseop.tistory.com/61) <br>
 [2021.11.14 : [알고리즘] 다이나믹 프로그래밍](https://cnu-jinseop.tistory.com/62) <br>
 [2021.11.14 : [Backjoon_11052] 카드 구매하기(Java)](https://cnu-jinseop.tistory.com/63) <br>
+[2021.11.16 : [Spring-MVC] SSR (Thymeleaf)](https://cnu-jinseop.tistory.com/64) <br>
+[2021.11.16 : [backjoon_15990] 1,2,3 더하기 5(Java)](https://cnu-jinseop.tistory.com/65) <br>

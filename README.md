@@ -54,3 +54,4 @@
 [2021.11.16 : [Spring-MVC] SSR (Thymeleaf)](https://cnu-jinseop.tistory.com/64) <br>
 [2021.11.16 : [backjoon_15990] 1,2,3 더하기 5(Java)](https://cnu-jinseop.tistory.com/65) <br>
 [2021.11.17 : [Spring MVC] PRG Post/Redirect/Get](https://cnu-jinseop.tistory.com/66) <br>
+[2021.11.20 : [backjoon_2225] 합분해 (Java)](https://cnu-jinseop.tistory.com/67) <br>

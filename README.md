@@ -56,3 +56,4 @@
 [2021.11.17 : [Spring MVC] PRG Post/Redirect/Get](https://cnu-jinseop.tistory.com/66) <br>
 [2021.11.20 : [backjoon_2225] 합분해 (Java)](https://cnu-jinseop.tistory.com/67) <br>
 [2021.11.21 : [backjoon_11057] 오르막 수 (Java)](https://cnu-jinseop.tistory.com/68) <br>
+[2021.11.27 : [BOJ_2156] 포도주 시식 (java)](https://cnu-jinseop.tistory.com/69) <br>

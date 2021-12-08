@@ -59,3 +59,4 @@
 [2021.11.27 : [BOJ_2156] 포도주 시식 (java)](https://cnu-jinseop.tistory.com/69) <br>
 [2021.12.6 : [Network] www.google.com url을 검색하면 일어나는 일](https://cnu-jinseop.tistory.com/70) <br>
 [2021.12.6 : [Algorithm]Queue와 Deque(큐와 덱)](https://cnu-jinseop.tistory.com/71) <br>
+[2021.12.7 : [Network] URI? URL? URN?](https://cnu-jinseop.tistory.com/72) <br>

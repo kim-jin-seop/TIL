@@ -60,3 +60,4 @@
 [2021.12.6 : [Network] www.google.com url을 검색하면 일어나는 일](https://cnu-jinseop.tistory.com/70) <br>
 [2021.12.6 : [Algorithm]Queue와 Deque(큐와 덱)](https://cnu-jinseop.tistory.com/71) <br>
 [2021.12.7 : [Network] URI? URL? URN?](https://cnu-jinseop.tistory.com/72) <br>
+[2021.12.10 : [Network] DNS(Domain Name Service)란 무엇인가?](https://cnu-jinseop.tistory.com/77) <br>

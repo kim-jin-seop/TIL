@@ -61,3 +61,4 @@
 [2021.12.6 : [Algorithm]Queue와 Deque(큐와 덱)](https://cnu-jinseop.tistory.com/71) <br>
 [2021.12.7 : [Network] URI? URL? URN?](https://cnu-jinseop.tistory.com/72) <br>
 [2021.12.10 : [Network] DNS(Domain Name Service)란 무엇인가?](https://cnu-jinseop.tistory.com/77) <br>
+[2021.12.13 : [BOJ_11724] 연결요소 (java)](https://cnu-jinseop.tistory.com/78) <br>

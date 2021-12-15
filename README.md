@@ -62,3 +62,4 @@
 [2021.12.7 : [Network] URI? URL? URN?](https://cnu-jinseop.tistory.com/72) <br>
 [2021.12.10 : [Network] DNS(Domain Name Service)란 무엇인가?](https://cnu-jinseop.tistory.com/77) <br>
 [2021.12.13 : [BOJ_11724] 연결요소 (java)](https://cnu-jinseop.tistory.com/78) <br>
+[2021.12.14 : [Algorithm] 그래프란? 그래프 탐색알고리즘(DFS,BFS)](https://cnu-jinseop.tistory.com/79) <br>

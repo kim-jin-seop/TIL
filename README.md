@@ -65,3 +65,5 @@
 [2021.12.14 : [Algorithm] 그래프란? 그래프 탐색알고리즘(DFS,BFS)](https://cnu-jinseop.tistory.com/79) <br>
 [2021.12.15 : [BOJ_1707] 이분그래프 (java)](https://cnu-jinseop.tistory.com/80) <br>
 [2021.12.15 : [BOJ_2667] 단지번호붙이기 (java)](https://cnu-jinseop.tistory.com/81) <br>
+[2021.12.16 : [BOJ_7576] 토마토 (java)](https://cnu-jinseop.tistory.com/82) <br>
+[2021.12.16 : [BOJ_7562] 나이트의 이동 (Java)](https://cnu-jinseop.tistory.com/83) <br>

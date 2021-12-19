@@ -49,3 +49,6 @@
 [2021.12.16 : [BOJ_7576] 토마토 (java)](https://cnu-jinseop.tistory.com/82) <br>
 [2021.12.16 : [BOJ_7562] 나이트의 이동 (Java)](https://cnu-jinseop.tistory.com/83) <br>
 [2021.12.17 : BFS로 최소비용 문제 해결하기](https://cnu-jinseop.tistory.com/84) <br>
+[2021.12.18 : [BOJ_14226] 이모티콘 (java)](https://cnu-jinseop.tistory.com/85) <br>
+[2021.12.18 : [BOJ_14226] 이모티콘 (java)](https://cnu-jinseop.tistory.com/86) <br>
+[2021.12.18 : [BOJ_1261] 알고스팟 (java)](https://cnu-jinseop.tistory.com/87) <br>

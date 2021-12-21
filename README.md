@@ -52,3 +52,4 @@
 [2021.12.18 : [BOJ_14226] 이모티콘 (java)](https://cnu-jinseop.tistory.com/85) <br>
 [2021.12.18 : [BOJ_14226] 이모티콘 (java)](https://cnu-jinseop.tistory.com/86) <br>
 [2021.12.18 : [BOJ_1261] 알고스팟 (java)](https://cnu-jinseop.tistory.com/87) <br>
+[2021.12.20 : [BOJ_14499] 주사위 굴리기 (java)](https://cnu-jinseop.tistory.com/88) <br>

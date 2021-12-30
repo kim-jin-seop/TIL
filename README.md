@@ -55,3 +55,5 @@
 [2021.12.20 : [BOJ_14499] 주사위 굴리기 (java)](https://cnu-jinseop.tistory.com/88) <br>
 [2021.12.21 : [BOJ_14890] 경사로 (java)](https://cnu-jinseop.tistory.com/89) <br>
 [2021.12.21 : [BOJ_15662] 톱니바퀴 ( java)](https://cnu-jinseop.tistory.com/90) <br>
+[2021.12.29 : [BOJ_15685] 드래곤 커브 (Java)](https://cnu-jinseop.tistory.com/92) <br>
+[2021.12.29 : JPA 프로젝트 설정(Maven, H2 DB)](https://cnu-jinseop.tistory.com/94) <br>

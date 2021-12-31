@@ -57,3 +57,7 @@
 [2021.12.21 : [BOJ_15662] 톱니바퀴 ( java)](https://cnu-jinseop.tistory.com/90) <br>
 [2021.12.29 : [BOJ_15685] 드래곤 커브 (Java)](https://cnu-jinseop.tistory.com/92) <br>
 [2021.12.29 : JPA 프로젝트 설정(Maven, H2 DB)](https://cnu-jinseop.tistory.com/94) <br>
+[2021.12.30 : OSI 7계층을 알아보자.](https://cnu-jinseop.tistory.com/95) <br>
+[2021.12.30 : JPA로 CRUD하기](https://cnu-jinseop.tistory.com/96) <br>
+[2021.12.30 : [BOJ_2290] LCD Test (java)](https://cnu-jinseop.tistory.com/97) <br>
+[2021.12.30 : [BOJ_2290] LCD Test (java)](https://cnu-jinseop.tistory.com/98) <br>

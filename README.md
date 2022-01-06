@@ -49,3 +49,4 @@
 [2021.12.31 : [BOJ_16931] 겉넓이 구하기 (java)](https://cnu-jinseop.tistory.com/99) <br>
 [2022.1.1 : [카카오] 카카오 프렌즈 컬러링북 (java)](https://cnu-jinseop.tistory.com/100) <br>
 [2022.1.2 : JPA 영속성 컨텍스트란?](https://cnu-jinseop.tistory.com/101) <br>
+[2022.1.5 : BOJ_14888 연산자 끼워넣기 (Java)](https://cnu-jinseop.tistory.com/102) <br>

@@ -1,14 +1,10 @@
 # main links
 main:
-    - title: "Search"
-      url: /Search/
-    - title: "CordingTest"
-      url: /CordingTest/
-    - title: "PortFolio"
-      url: /categories/PortFolio
+    - title: "TIL"
+      url:  /posts/
     - title: "Categories"
       url: /categories/
-    - title: "Tags"
-      url:  /tags/
-    - title: "Posts"
-      url:  /posts/
+    - title: "resume"
+      url: /categories/resume
+    - title: "Search"
+      url: /Search/

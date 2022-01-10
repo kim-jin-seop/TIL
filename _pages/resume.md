@@ -1,4 +1,5 @@
 ---
+title: ""
 permalink: /categories/resume/
 layout: category
 author_profile: true

@@ -1,6 +1,6 @@
 ---
-title: "TIL(Today I Learned)"
-permalink: /posts/
-layout: posts
+title: "Posts by Month"
+permalink: /til/
+layout: monthly
 author_profile: true
 ---

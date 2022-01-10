@@ -1,6 +1,6 @@
 ---
-title: "Posts by Month"
+title: "TIL(Today I Learned)"
 permalink: /posts/
-layout: monthly
+layout: posts
 author_profile: true
 ---

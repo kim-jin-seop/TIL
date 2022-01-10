@@ -16,12 +16,12 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Developer Kor-Kim Site"
+title                    : "Back-End Dev Kim Jin Seop"
 title_separator          : "-"
-subtitle                 : "https://kim-jin-seop.github.io 훌륭한 개발자가 되기위한 노력" # site tagline that appears below site title in masthead
+subtitle                 : "TIL(Today I Learned)" # site tagline that appears below site title in masthead
 name                     : "김진섭"
-description              : "취미는 코딩! 훌륭한 구글 엔지니어가 되기 위하여 노력하는 개발자의 블로그"
-url                      : "https://kim-jin-seop.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : "지식을 공유하며 함께 성장하는 개발자의 TIL"
+url                      : "https://kim-jin-seop.github.io" # the base hostname & protocol for your site e.g.
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : kim-jin-seop/ # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : /assets/img/teaser.jpg # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Kim Jin Seop"
   avatar           : /assets/img/avatar.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "열심히 코딩하며 공부하는 개발자"
+  bio              : "지식을 공유하며 함께 성장하는 개발자"
   location         : "South Korea"
   email            : tjq2702@naver.com
   links:
@@ -118,13 +118,13 @@ author:
       #url: tjq2702@naver.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://kim-jin-seop.github.io"
+      url: "https://cnu-jinseop.tistory.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      #url: "https://facebook.com/"
+      url: "https://facebook.com/JinSeopDev"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: https://github.com/kim-jin-seop
@@ -140,7 +140,7 @@ footer:
       # url:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url:
+      url: https://www.facebook.com/JinSeopDev/
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: https://github.com/kim-jin-seop
@@ -152,7 +152,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/jinseop_kimm/"
+      url: "https://www.instagram.com/dear_seop/"
 
 
 # Reading Files

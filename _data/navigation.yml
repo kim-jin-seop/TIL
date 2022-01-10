@@ -1,10 +1,10 @@
 # main links
 main:
     - title: "TIL"
-      url:  /posts/
+      url:  /til/
     - title: "Categories"
       url: /categories/
     - title: "resume"
       url: /categories/resume
     - title: "Search"
-      url: /Search/
+      url: /search/

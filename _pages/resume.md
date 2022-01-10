@@ -4,10 +4,16 @@ permalink: /categories/resume/
 layout: category
 author_profile: true
 toc: true
+toc_label: "Resume Index"
+toc_sticky: true
 ---
-#  
 
-### Certificate
+## Who am I?
+안녕하세요. 노력과 열정으로 성장하는 백엔드 개발자 김진섭입니다.
+
+##
+
+### 🎖Certificate
 
 - 국가공인자격증  
 	1. SQLD   

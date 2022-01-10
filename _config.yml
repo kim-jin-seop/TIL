@@ -290,12 +290,12 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
+      comments: false
       share: true
-      related: true
-      toc : true
+      related: false
+      toc : false
       toc_label: "페이지 주요 목차"
-      toc_sticky: true
+      toc_sticky: false
       header:
         overlay_image: /assets/img/overlay.jpg
 

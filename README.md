@@ -4,9 +4,16 @@
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://kim-jin-seop.github.io/til/&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
   <img src="https://img.shields.io/github/stars/kim-jin-seop/kim-jin-seop.github.io" alt="stars"/>
   <img src="https://img.shields.io/github/forks/kim-jin-seop/kim-jin-seop.github.io" alt="forks"/>
+  <p>
+    <a href="https://kim-jin-seop.github.io/til/">TIL</a> / <a href="https://kim-jin-seop.github.io/categories/resume/"> Resume</a>
+  </p>
 </div>
 
+
 ---  
+
+
+
 
 ## 👋 TIL 블로그 소개
 - Jekyll & Minimal Mistakes 기반 블로그

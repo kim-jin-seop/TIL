@@ -1,8 +1,8 @@
 # main links
 main:
-    - title: "TIL"
+    - title: "TIL(날짜)"
       url:  /til/
-    - title: "Categories"
+    - title: "TIL(카테고리)"
       url: /categories/
     - title: "resume"
       url: /categories/resume

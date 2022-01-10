@@ -8,3 +8,5 @@ main:
       url: /categories/resume
     - title: "Search"
       url: /search/
+    - title: "Monthly"
+      url: /month-archive/

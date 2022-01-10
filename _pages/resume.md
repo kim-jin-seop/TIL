@@ -4,7 +4,6 @@ permalink: /categories/resume/
 layout: category
 author_profile: true
 ---
-내가 알아보기 쉽게 정리해둔 포트폴리오
 
 # Certificate  
 ### SQLD   

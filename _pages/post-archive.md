@@ -1,6 +1,6 @@
 ---
 title: "TIL(Today I Learned)"
-permalink: /til
+permalink: /til/
 layout: posts
 author_profile: true
 ---

@@ -1,5 +1,5 @@
 ---
-title: "TIL 카테고리 보기"
+title: "카테고리"
 layout: categories
 permalink: /categories/
 author_profile: true

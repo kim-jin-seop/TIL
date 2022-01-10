@@ -1,9 +1,9 @@
 # main links
 main:
     - title: "TIL(날짜)"
-      url:  /til/
+      url:  /posts/
     - title: "TIL(카테고리)"
-      url: /categories/
+      url: /tags/
     - title: "resume"
       url: /categories/resume
     - title: "Search"

@@ -38,7 +38,10 @@
    - Site Author
    - Site Footer
 5. _posts 파일에 있는 md 파일을 모두 제거한다.
-6. post 예시문을 활용하여 TIL을 작성하고, _posts에 추가하여 매일 포스팅한다.
+6. /_pages/resume.md 파일의 내용을 수정하여 자신의 Resume로 변경한다.
+7. post 예시문을 활용하여 TIL을 작성하고, _posts에 추가하여 매일 포스팅한다.
+
+참고 : Resume는 /_pages/resume.md 파일을 수정하시면 됩니다.
 
 ## 👨🏻‍💻 포스팅 규칙
 자신의 블로그이기 때문에 포스팅에 따로 규칙은 없습니다.  

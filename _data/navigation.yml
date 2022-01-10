@@ -9,4 +9,4 @@ main:
     - title: "Search"
       url: /search/
     - title: "Monthly"
-      url: /month-archive/
+      url: /til/

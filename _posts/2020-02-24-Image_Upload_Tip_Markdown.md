@@ -3,10 +3,6 @@ title:  "Git Blog에 이미지 업로드 Tip"
 excerpt: "Git의 MD파일에 이미지를 업로드하는 Tip"
 categories:
     MARKDOWN
-tag:
-    - MARKDOWN
-    - GIT
-    - BLOG
 header:
     teaser: https://user-images.githubusercontent.com/33629459/75142234-ff84d500-5735-11ea-81f3-0eef8d9332ec.png
     og_image: https://user-images.githubusercontent.com/33629459/75142234-ff84d500-5735-11ea-81f3-0eef8d9332ec.png

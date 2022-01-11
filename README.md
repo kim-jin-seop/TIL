@@ -39,7 +39,6 @@
 6. /assets/img/의 파일들을 자신의 사진으로 변경한다.(이 때 이름을 동일하게 작성해주어야 한다.)
 7. post 예시문을 활용하여 TIL을 작성하고, _posts에 추가하여 매일 포스팅한다.
 
-참고 : Resume는 /_pages/resume.md 파일을 수정하시면 됩니다.
 
 ## 👨🏻‍💻 포스팅 규칙
 자신의 TIL이므로 포스팅에 따로 규칙은 없습니다.  
@@ -62,7 +61,7 @@ categories를 지정해주셔야, 추후 카테고리 관리에 포함되어 관
 
 
 ## 👀 Contact Me
-편하게 메일 혹은 블로그에 오셔서 댓글 남겨주시면 감사하겠습니다 :)   
+메일 혹은 블로그에 오셔서 댓글 남겨주시면 감사하겠습니다 :)   
 
   <a href="https://cnu-jinseop.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-gray?style=flat-square&logo=TV%20Time&logoColor=white&link=https://cnu-jinseop.tistory.com/"/></a>
   <a href="mailto:tjq2702@naver.com" target="_blank"><img src="https://img.shields.io/badge/tjq2702@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white&link=tjq2702@naver.com"/></a>

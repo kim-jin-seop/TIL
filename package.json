@@ -1,0 +1,24 @@
+{
+  "name": "kim-jin-seop.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kim-jin-seop/TIL.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kim-jin-seop/TIL/issues"
+  },
+  "homepage": "https://github.com/kim-jin-seop/TIL#readme",
+  "devDependencies": {
+    "vuepress": "^1.9.7"
+  }
+}

@@ -1,6 +1,5 @@
 
-_pages/.DS_Store
 .DS_Store
 /secret_folder
-docs/dist
+docs/.vuepress/dist
 /node_modules

@@ -1,3 +1,6 @@
 
 _pages/.DS_Store
 .DS_Store
+/secret_folder
+docs/dist
+/node_modules

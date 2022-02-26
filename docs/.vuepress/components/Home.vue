@@ -6,7 +6,7 @@
       </h1>
 
       <div class="infoContainer">
-        <div class="name">Jay Jin's TIL</div>
+        <div class="name">JinSeop Kim</div>
         <ul>
           <li>
             <a href="https://cnu-jinseop.tistory.com/">Blog</a>

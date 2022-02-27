@@ -1,20 +1,24 @@
 // //현재 위치 : ~/클론받은 레포/docs/.vuepress/config.js
 module.exports = {
   title: "TIL : Today I Learned",
-  description: "desc",
+  description: "매일 배운 내용을 정리합니다.",
   themeConfig: {
+    nav: [{ text: "Github", link: "https://github.com/kim-jin-seop" },
+          { text: "Blog", link: "https://cnu-jinseop.tistory.com/"}],
     sidebar: getSidebarArr()
   },
-  //레파지토리의 이름을 아래에 넣어주면된다.
-  base: "/TIL/"
-  nav: [{
-        text: 'GitHub',
-        link: 'https://github.com/kim-jin-seop/'
-      }, {
-        text: 'Blog',
-        link: 'https://cnu-jinseop.tistory.com/'
-      }
-    ]
+  markdown: {
+    lineNumbers: true
+  },
+  //가장 중요한 부분!
+  //<username>.github.io 뒤에 주소가 붙으시면
+  //아래와 같이 뒤 붙는 주소를 넣어주셔야합니다.
+  //안그러면 css 가 반영이 안되요!! 꼭꼭 넣어주세요
+  base: "/TIL/",
+  plugins:[
+    ["vuepress-plugin-code-copy"],
+    ["@vuepress/back-to-top"]
+  ]
 };
 
 function getSidebarArr() {

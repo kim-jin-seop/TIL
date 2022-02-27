@@ -1,6 +1,6 @@
 // .vuepress/config.js
 var path = require('path')
-let {getArticles} = require(path.resolve('.vuepress/monthly'))
+let {getArticles} = require(path.resolve('.vuepress/monthly.js'))
 
 module.exports = {
   title: "TIL : Today I Learned",

@@ -1,7 +1,17 @@
+var path = require('path')
+let {getArticles} = require(path.resolve('.vuepress/month'))
+
 module.exports = {
   title: "TIL : Today I Learned",
   description: "매일 공부한 내용을 정리합니다.",
   themeConfig: {
+    sidebar: [
+            {
+                title: 'Vuepress',
+                collapsable: true,
+                children: getArticles('vuejs/vuepress')
+            }
+        ],
     nav: [{ text: "Github", link: "https://github.com/kim-jin-seop" },
           { text: "Blog", link: "https://cnu-jinseop.tistory.com/"}],
     sidebar: getSidebarArr()

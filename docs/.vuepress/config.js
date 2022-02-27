@@ -1,12 +1,20 @@
 // //현재 위치 : ~/클론받은 레포/docs/.vuepress/config.js
 module.exports = {
-  title: "title",
+  title: "TIL : Today I Learned",
   description: "desc",
   themeConfig: {
     sidebar: getSidebarArr()
   },
   //레파지토리의 이름을 아래에 넣어주면된다.
   base: "/TIL/"
+  nav: [{
+        text: 'GitHub',
+        link: 'https://github.com/kim-jin-seop/'
+      }, {
+        text: 'Blog',
+        link: 'https://cnu-jinseop.tistory.com/'
+      }
+    ]
 };
 
 function getSidebarArr() {

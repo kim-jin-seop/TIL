@@ -1,8 +1,8 @@
 <template>
   <div>
     <div class="titleContainer">
-      <h1>오늘 배운 건
-        <br>오늘 적자
+      <h1>매일 매일을
+        <br>기록 하자
       </h1>
 
       <div class="infoContainer">
